@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color:rgb(99, 17, 176);
+    text-align: center;
+    background-color: aliceblue;
+}
+
+img {
+    width: 70%;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    margin-top: 10px;
+    background-color: aliceblue;
+}
